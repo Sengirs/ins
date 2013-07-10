@@ -19,7 +19,7 @@ fr:
     no_authority: "Impossible de trouver une autorité à mettre à jour"
     no_file: "Aucun fichier de résultat ou d’autorité fourni"
   accont: 
-    feedback_pricing_sub: "Obtenir les montants pour votre institution"
+    feedback_pricing_sub: "obtenir les montants pour votre institution"
   account: 
     ask_canvas_network: "Poser la question à la communauté du réseau Canvas"
     default_account_name: "Compte par défaut"
