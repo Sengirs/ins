@@ -1,7 +1,7 @@
 --- 
 fr: 
   EditAppointmentGroupDetails: 
-    affect_reservations: "En quoi cela affectera-t-il les réservations ?"
+    affect_reservations: "En quoi cela affectera-t-il les réservationsi ???"
     and_n_contexts: "et %{n} autres"
     and_n_sectionCodes: "et %{n} autres"
     bad_max_appts: "Vous devez autoriser au moins un rendez-vous par participant."
