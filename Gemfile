@@ -168,3 +168,7 @@ end
 Dir[File.join(File.dirname(__FILE__),'vendor/plugins/*/Gemfile')].each do |g|
   eval(File.read(g))
 end
+
+### Custom Gems
+gem 'newrelic_rpm'
+
